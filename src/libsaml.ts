@@ -12,7 +12,7 @@ import * as camel from 'camelcase';
 import { MetadataInterface } from './metadata';
 import { isObject, isUndefined, includes, flattenDeep } from 'lodash';
 import * as nrsa from 'node-rsa';
-import { SignedXml, FileKeyInfo } from 'xml-crypto';
+import { SignedXml, FileKeyInfo } from 'xml-crypto-q';
 import * as xmlenc from '@passify/xml-encryption';
 import * as path from 'path';
 import * as fs from 'fs';

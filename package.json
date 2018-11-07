@@ -1,5 +1,5 @@
 {
-  "name": "samlify",
+  "name": "samlify-q",
   "version": "2.4.0",
   "description": "High-level API for Single Sign On (SAML 2.0)",
   "main": "build/index.js",
@@ -27,7 +27,7 @@
   ],
   "author": "tngan",
   "repository": {
-    "url": "https://github.com/tngan/samlify",
+    "url": "https://github.com/slimm609/samlify",
     "type": "git"
   },
   "license": "MIT",
@@ -48,7 +48,7 @@
     "typescript": "^2.9.2",
     "uuid": "^3.3.2",
     "xml": "^1.0.0",
-    "xml-crypto": "^1.0.1",
+    "xml-crypto-q": "^1.0.1",
     "xmldom": "^0.1.19",
     "xpath": "^0.0.27"
   },
